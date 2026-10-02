@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /potolki-perm/blog/preview/
+
+Sitemap: https://murzzsite.github.io/potolki-perm/sitemap.xml

@@ -1,15 +1,15 @@
 {
-  "siteName": "RESET",
-  "siteUrl": "https://murzzsite.github.io/resset-service",
+  "siteName": "Потолок №1",
+  "siteUrl": "https://murzzsite.github.io/potolki-perm",
   "lang": "ru",
-  "repo": "murzzsite/resset-service",
-  "ref": "C2UVM3BDP3",
+  "repo": "murzzsite/potolki-perm",
+  "ref": "XQBF4UPU52",
   "workerUrl": "https://lead-relay.leestygpt.workers.dev",
   "blogTitle": "Блог",
-  "blogDescription": "Полезные статьи от RESET",
+  "blogDescription": "Полезные статьи от Потолок №1",
   "homeTitle": "Полезные статьи",
   "author": {
-    "name": "Сервис RESET",
+    "name": "Потолок №1",
     "jobTitle": "",
     "type": "Organization"
   },
@@ -24,8 +24,8 @@
   "staticPages": [
     "/"
   ],
-  "indexNowKey": "3c9305f465555cef1289967d997cdf60",
-  "previewSecret": "cc3553617438bcb7",
+  "indexNowKey": "490b86245c55c6d4c58882e0e1a3586a",
+  "previewSecret": "afe810f4a9f07cca",
   "theme": {
     "accent": "var(--clr-accent)",
     "accent-soft": "var(--clr-accent-soft)",
